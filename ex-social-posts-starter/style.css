@@ -64,7 +64,6 @@ h1 {
 
 .profile-pic {
     border-radius: 50%;
-    aspect-ratio: 1 / 1;
     max-width: 60px;
 }
 
@@ -121,6 +120,6 @@ h1 {
 }
 
 .like-button--liked {
-    color: #500cd9;
+    color: #0CD977;
     cursor: default;
 }
